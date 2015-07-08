@@ -1,5 +1,5 @@
 === WordPress Service Worker Plugin ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: Cheo Walker
 Donate link: http://dzwebcreations.com
 Tags: comments, spam
 Requires at least: 4.0.1
